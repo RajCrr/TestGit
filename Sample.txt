@@ -1,2 +1,2 @@
 Hello This is first Commit
-In 
+This is a sample file
